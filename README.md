@@ -11,5 +11,5 @@ epochs=10，学习率lr=0.1
 训练集准确率约0.848，测试集泛化准确率约0.83
 
 ## 训练可视化
-![训练曲线](<img width="595" height="579" alt="image" src="https://github.com/user-attachments/assets/28b2ebf0-1311-40f5-a1f9-76d7766bbac4" />
+![训练曲线](<"https://github.com/user-attachments/assets/28b2ebf0-1311-40f5-a1f9-76d7766bbac4" />
 )
